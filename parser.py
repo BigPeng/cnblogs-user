@@ -23,7 +23,7 @@ class Article:
         self.view = view
         self.comment=comment
         self.ft = self.str2timef(time)
-        self.score = 1.0 * (view/10 +10.0*(rec+0.001)/view  )/math.pow((self.ft+5),1.3)
+        self.score = 1.0 * (view/10 +10.0*(rec+0.001)/view  )/math.pow((self.ft+0.5),1.1)
     def __cmp__(self,other):
         if self.score > other.score:
             return -1
@@ -79,7 +79,7 @@ def getArticles(p):
     return articles
 
 
-articles = getArticles(5)
+articles = getArticles(10)
 articles.sort(key=lambda x:x.score,reverse=True)
 count  = 1
 print 'The Cnblogs Articles'
@@ -90,3 +90,5 @@ for each in articles:
         print '<table><tr><td>Page',1 + count/25,'</table></tr></td>'
     print '<table><tr><td>',count, '.', each,'</table></tr></td>'
     count += 1
+    if count > 50:
+        break
