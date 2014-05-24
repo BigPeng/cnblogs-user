@@ -32,8 +32,8 @@ class Article:
             return 0
     def __str__(self):
         s =  self.title.encode('gbk')
-        s += '\n\t'+self.url.encode('gbk')
-        s += '\n\t'+self.time.encode('gbk')
+        s += '<br>\t'+self.url.encode('gbk')
+        s += '<br>\t'+self.time.encode('gbk')
         s += '\tRead('+ str(self.view)+')'+')\tRecommend('+str(self.rec)+')'
         s += '\tScore('+str(self.score)+')'
         return s
@@ -72,7 +72,6 @@ def getArticles(p):
     home = 'http://www.cnblogs.com/sitehome/p/'
     for i in xrange(p):
         url = home+str(i+1)
-        print url
         page = getPage(url)
         soup = BeautifulSoup(page)
         articles += getOnePageArticles(soup)
@@ -82,9 +81,11 @@ def getArticles(p):
 articles = getArticles(5)
 articles.sort(key=lambda x:x.score,reverse=True)
 count  = 1
-print 'Update at ',time.ctime()
+print 'The Cnblogs Articles'
+print '='
+print '###Update at ',time.ctime()
 for each in articles:
     if count % 25 == 1:
-        print 'Page',1 + count/25
-    print count, '\t', each
+        print '<table><tr><td>Page',1 + count/25,'</table></tr></td>'
+    print '<table><tr><td>',count, '.', each,'</table></tr></td>'
     count += 1
