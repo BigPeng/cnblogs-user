@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import urllib
 import time
 from datetime import datetime
+import math
 def getPage(url):
     try:
         web = urllib.urlopen(url)
@@ -22,7 +23,7 @@ class Article:
         self.view = view
         self.comment=comment
         self.ft = self.str2timef(time)
-        self.score = 1.0 * (view/10 +10.0*(rec+0.001)/view  )/(self.ft+5)
+        self.score = 1.0 * (view/10 +10.0*(rec+0.001)/view  )/math.pow((self.ft+5),1.3)
     def __cmp__(self,other):
         if self.score > other.score:
             return -1
