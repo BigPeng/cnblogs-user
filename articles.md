@@ -1,55 +1,55 @@
 The Cnblogs Articles
 =
-###Update at  Tue Jun 24 10:00:02 2014
+###Update at  Wed Jun 25 10:00:02 2014
 <table><tr><td>Page 1 </table></tr></td>
-<table><tr><td> 1 . VS2010在64位系统中连接64位Oracle出现的问题和解决方法<br>	http://www.cnblogs.com/angelasp/p/3805424.html<br>	2014-06-24 09:37	Read(63))	Recommend(1)	Score(0.00189099315982) </table></tr></td>
-<table><tr><td> 2 . 负margin的移位参考线<br>	http://www.cnblogs.com/lilaczhu/p/3804896.html<br>	2014-06-24 09:39	Read(32))	Recommend(1)	Score(0.00128664894017) </table></tr></td>
-<table><tr><td> 3 . 微软移动 Nokia Lumia SensorCore SDK 介绍及上手体验<br>	http://www.cnblogs.com/dearsj001/p/LumiaSensorCoreSDK.html<br>	2014-06-24 09:44	Read(91))	Recommend(0)	Score(0.000429526447183) </table></tr></td>
-<table><tr><td> 4 . Swift实战-豆瓣电台（五）播放音乐<br>	http://www.cnblogs.com/sandal1980/p/3805378.html<br>	2014-06-24 09:11	Read(158))	Recommend(1)	Score(0.000353683615505) </table></tr></td>
-<table><tr><td> 5 . html5与EmguCV前后端实现——人脸识别篇（一）<br>	http://www.cnblogs.com/Arthus/p/3804037.html<br>	2014-06-24 08:32	Read(302))	Recommend(3)	Score(0.000287859813167) </table></tr></td>
-<table><tr><td> 6 . HTML框架集之Frameset与Iframe简单应用<br>	http://www.cnblogs.com/LT0314/p/3805393.html<br>	2014-06-24 09:22	Read(120))	Recommend(0)	Score(0.000259298534733) </table></tr></td>
-<table><tr><td> 7 . YbSoftwareFactory 代码生成插件【十九】：实体类配合数据库表字段进行属性扩展的小技巧<br>	http://www.cnblogs.com/gyche/p/3802750.html<br>	2014-06-24 08:34	Read(212))	Recommend(0)	Score(0.000227219360973) </table></tr></td>
-<table><tr><td> 8 . ASP.NET MVC Model元数据(三)<br>	http://www.cnblogs.com/jin-yuan/p/3805189.html<br>	2014-06-24 08:45	Read(201))	Recommend(0)	Score(0.000182214014781) </table></tr></td>
-<table><tr><td> 9 . 策略模式和工厂模式的区别<br>	http://www.cnblogs.com/me115/p/3790615.html<br>	2014-06-24 07:42	Read(413))	Recommend(2)	Score(0.000180500677013) </table></tr></td>
-<table><tr><td> 10 . Amazon的Fire Phone之于Android开发者<br>	http://www.cnblogs.com/ider/p/amazon-fire-phone-for-android-developers.html<br>	2014-06-24 06:56	Read(260))	Recommend(0)	Score(6.51223903156e-05) </table></tr></td>
-<table><tr><td> 11 . 从零开始编写自己的C#框架（19）——Web层后端权限模块<br>	http://www.cnblogs.com/EmptyFS/p/3799824.html<br>	2014-06-23 23:04	Read(631))	Recommend(5)	Score(1.81142107158e-05) </table></tr></td>
-<table><tr><td> 12 . 在外包的这几年，技术和管理经验总结<br>	http://www.cnblogs.com/huige-you/p/3802542.html<br>	2014-06-23 18:35	Read(1477))	Recommend(8)	Score(1.78998747439e-05) </table></tr></td>
-<table><tr><td> 13 . 微信公众平台开发(97) 图文消息<br>	http://www.cnblogs.com/txw1958/p/weixin-97-news.html<br>	2014-06-24 01:21	Read(512))	Recommend(0)	Score(1.6985564302e-05) </table></tr></td>
-<table><tr><td> 14 . 前端学习笔记--style，currentStyle，getComputedStyle的区别和用法<br>	http://www.cnblogs.com/maplechow/p/3805286.html<br>	2014-06-24 01:53	Read(241))	Recommend(1)	Score(1.36528835103e-05) </table></tr></td>
-<table><tr><td> 15 . FineUI小技巧（2）将表单内全部字段禁用、只读、设置无效标识（另附48张专业版高清大图）<br>	http://www.cnblogs.com/sanshi/p/3800851.html<br>	2014-06-23 14:29	Read(1647))	Recommend(21)	Score(1.31425801777e-05) </table></tr></td>
-<table><tr><td> 16 . Sublime Text 2 绿化与汉化 [Windows篇]<br>	http://www.cnblogs.com/52cik/p/sublime-diy.html<br>	2014-06-23 23:00	Read(305))	Recommend(5)	Score(1.2582776237e-05) </table></tr></td>
-<table><tr><td> 17 . 随机获取部分List<Object>集合<br>	http://www.cnblogs.com/libaoting/p/random.html<br>	2014-06-24 09:59	Read(1))	Recommend(0)	Score(1.0386812611e-05) </table></tr></td>
-<table><tr><td> 18 . 多一个“点”给IIS与ASP.NET带来的问题<br>	http://www.cnblogs.com/dudu/p/3803819.html<br>	2014-06-23 13:41	Read(1351))	Recommend(8)	Score(1.00821351066e-05) </table></tr></td>
-<table><tr><td> 19 . 【求职经历】腾讯游戏实习生面试体验<br>	http://www.cnblogs.com/neverdie/p/3804211.html<br>	2014-06-23 16:09	Read(1043))	Recommend(2)	Score(9.7889149701e-06) </table></tr></td>
-<table><tr><td> 20 . 基于Quick-cocos2d-x的资源更新方案<br>	http://www.cnblogs.com/geniusalex/p/3805232.html<br>	2014-06-24 00:10	Read(159))	Recommend(1)	Score(9.01321421152e-06) </table></tr></td>
-<table><tr><td> 21 . 私人定制javascript中对象小知识点(Only For Me)<br>	http://www.cnblogs.com/miniyk/p/3805158.html<br>	2014-06-23 23:02	Read(268))	Recommend(0)	Score(8.01726468085e-06) </table></tr></td>
-<table><tr><td> 22 . Swift中文手册 -- Control Flow<br>	http://www.cnblogs.com/hbsi/p/3805197.html<br>	2014-06-23 23:35	Read(212))	Recommend(2)	Score(7.12941841448e-06) </table></tr></td>
-<table><tr><td> 23 . 学习ASP.NET MVC(五)——我的第一个ASP.NET MVC CURD页面<br>	http://www.cnblogs.com/chillsrc/p/3805067.html<br>	2014-06-23 21:54	Read(350))	Recommend(2)	Score(7.12025095741e-06) </table></tr></td>
-<table><tr><td> 24 . 一缕阳光：DDD（领域驱动设计）应对具体业务场景，如何聚焦 Domain Model（领域模型）？<br>	http://www.cnblogs.com/xishuai/p/3800656.html<br>	2014-06-23 09:02	Read(1298))	Recommend(28)	Score(6.84502081733e-06) </table></tr></td>
-<table><tr><td> 25 . MSbuild 教程<br>	http://www.cnblogs.com/peteryan/p/3805039.html<br>	2014-06-23 21:39	Read(287))	Recommend(1)	Score(6.57990299181e-06) </table></tr></td>
+<table><tr><td> 1 . jQuery源码分析系列(38) : 队列操作<br>	http://www.cnblogs.com/aaronjs/p/3800619.html<br>	2014-06-25 09:49	Read(44))	Recommend(1)	Score(0.00158115974627) </table></tr></td>
+<table><tr><td> 2 . 胖子哥的大数据之路（12）-三张图告诉你大数据安全方案设计<br>	http://www.cnblogs.com/hadoopdev/p/3807416.html<br>	2014-06-25 09:44	Read(139))	Recommend(1)	Score(0.000993032718021) </table></tr></td>
+<table><tr><td> 3 . ASP.NET MVC Model元数据(四)<br>	http://www.cnblogs.com/jin-yuan/p/3807178.html<br>	2014-06-25 08:37	Read(261))	Recommend(2)	Score(0.000293902055754) </table></tr></td>
+<table><tr><td> 4 . 程序员生存定律--如何尽快变的稍微专业一点<br>	http://www.cnblogs.com/daoshi/p/3807301.html<br>	2014-06-25 06:39	Read(776))	Recommend(2)	Score(0.000155027527257) </table></tr></td>
+<table><tr><td> 5 . Xamarin技术文档------VS多平台开发<br>	http://www.cnblogs.com/chenhaibo/p/3807439.html<br>	2014-06-25 09:53	Read(19))	Recommend(0)	Score(0.000138539655301) </table></tr></td>
+<table><tr><td> 6 . MVC 分页获取数据 及点选按钮<br>	http://www.cnblogs.com/qiankundai/p/3807429.html<br>	2014-06-25 09:49	Read(17))	Recommend(0)	Score(0.000100967109241) </table></tr></td>
+<table><tr><td> 7 . 图代文时隐藏文字的兼容实现<br>	http://www.cnblogs.com/lilaczhu/p/3807442.html<br>	2014-06-25 09:54	Read(9))	Recommend(0)	Score(6.93171006948e-05) </table></tr></td>
+<table><tr><td> 8 . Swift实战-豆瓣电台（六）视图跳转，传参及回跳<br>	http://www.cnblogs.com/sandal1980/p/3807450.html<br>	2014-06-25 09:58	Read(2))	Recommend(0)	Score(1.94909917266e-05) </table></tr></td>
+<table><tr><td> 9 . 企业级应用框架(一) 三层架构之解耦<br>	http://www.cnblogs.com/shaoshun/p/3804474.html<br>	2014-06-24 22:13	Read(609))	Recommend(6)	Score(1.57376594975e-05) </table></tr></td>
+<table><tr><td> 10 . 海康威视频监控设备Web查看系统（三）：Web篇<br>	http://www.cnblogs.com/maidi-mao/p/3791929.html<br>	2014-06-24 22:53	Read(616))	Recommend(4)	Score(1.50137684044e-05) </table></tr></td>
+<table><tr><td> 11 . 深入理解计算机系统（4.2）---硬件的魅力<br>	http://www.cnblogs.com/zuoxiaolong/p/computer22.html<br>	2014-06-25 01:12	Read(325))	Recommend(3)	Score(1.33918774386e-05) </table></tr></td>
+<table><tr><td> 12 . 在Linux上运行ASP.NET vNext<br>	http://www.cnblogs.com/sjyforg/p/3807038.html<br>	2014-06-24 22:22	Read(467))	Recommend(5)	Score(1.24389997128e-05) </table></tr></td>
+<table><tr><td> 13 . Sublime Text 之运行 js 方法<br>	http://www.cnblogs.com/52cik/p/sublime-runjs.html<br>	2014-06-24 22:18	Read(323))	Recommend(4)	Score(1.23630744113e-05) </table></tr></td>
+<table><tr><td> 14 . C语言控制台窗口图形界面编程（八）：鼠标事件<br>	http://www.cnblogs.com/lxl0928/p/3807262.html<br>	2014-06-25 01:28	Read(227))	Recommend(1)	Score(1.22048648444e-05) </table></tr></td>
+<table><tr><td> 15 . ASP.NET中处理自定义错误的最佳方式<br>	http://www.cnblogs.com/dudu/p/aspnet_custom_error.html<br>	2014-06-24 10:49	Read(2189))	Recommend(28)	Score(1.18802924881e-05) </table></tr></td>
+<table><tr><td> 16 . 最近状况的一点总结(2014年上半年总结)<br>	http://www.cnblogs.com/fangjian0423/p/2014-firsthalfyear-summary.html<br>	2014-06-24 20:52	Read(555))	Recommend(6)	Score(1.17877350877e-05) </table></tr></td>
+<table><tr><td> 17 . 软件测试这四年<br>	http://www.cnblogs.com/ryansunyu/p/3806878.html<br>	2014-06-24 21:00	Read(556))	Recommend(3)	Score(1.12097222352e-05) </table></tr></td>
+<table><tr><td> 18 . 手把手教你调试Entity Framework 6源码<br>	http://www.cnblogs.com/michaellfx/p/3806857.html<br>	2014-06-24 21:09	Read(594))	Recommend(3)	Score(1.05669194244e-05) </table></tr></td>
+<table><tr><td> 19 . 自动更新（自动升级）组件分享<br>	http://www.cnblogs.com/stoneniqiu/p/3806558.html<br>	2014-06-24 20:20	Read(531))	Recommend(5)	Score(9.69017767547e-06) </table></tr></td>
+<table><tr><td> 20 . C#操作Word文档（加密、解密、对应书签插入分页符）<br>	http://www.cnblogs.com/wucan/p/3806401.html<br>	2014-06-24 16:46	Read(877))	Recommend(5)	Score(9.05396695673e-06) </table></tr></td>
+<table><tr><td> 21 . 使用portaudio实现语音框架<br>	http://www.cnblogs.com/qianqians/p/3807244.html<br>	2014-06-25 01:04	Read(197))	Recommend(1)	Score(7.72502960364e-06) </table></tr></td>
+<table><tr><td> 22 . Spark源码系列（四）图解作业生命周期<br>	http://www.cnblogs.com/cenyuhai/p/3801167.html<br>	2014-06-25 02:15	Read(187))	Recommend(0)	Score(7.63085060843e-06) </table></tr></td>
+<table><tr><td> 23 . 如何使用PhoneGap打包Web App<br>	http://www.cnblogs.com/yanhaijing/p/3806686.html<br>	2014-06-24 19:15	Read(342))	Recommend(2)	Score(7.56662413019e-06) </table></tr></td>
+<table><tr><td> 24 . FineUI小技巧（3）表格导出与文件下载（另附24张专业版高清大图）<br>	http://www.cnblogs.com/sanshi/p/3801087.html<br>	2014-06-24 10:15	Read(1367))	Recommend(14)	Score(7.49266192232e-06) </table></tr></td>
+<table><tr><td> 25 . 私人定制javascript中数组小知识点(Only For Me)<br>	http://www.cnblogs.com/miniyk/p/3807141.html<br>	2014-06-24 23:17	Read(259))	Recommend(0)	Score(7.41594830405e-06) </table></tr></td>
 <table><tr><td>Page 2 </table></tr></td>
-<table><tr><td> 26 . struts2+ckeditor配置图片上传<br>	http://www.cnblogs.com/juepei/p/3805255.html<br>	2014-06-24 00:31	Read(199))	Recommend(0)	Score(5.54571935684e-06) </table></tr></td>
-<table><tr><td> 27 . 搜房二手频道调研<br>	http://www.cnblogs.com/qiansiqi/p/3804498.html<br>	2014-06-23 17:50	Read(492))	Recommend(3)	Score(5.52818773439e-06) </table></tr></td>
-<table><tr><td> 28 . 遇到个小问题，Java泛型真的是鸡肋吗？<br>	http://www.cnblogs.com/magialmoon/p/3803114.html<br>	2014-06-22 22:20	Read(2264))	Recommend(8)	Score(5.18279314476e-06) </table></tr></td>
-<table><tr><td> 29 . sass对象的定义<br>	http://www.cnblogs.com/rubylouvre/p/3805047.html<br>	2014-06-23 22:07	Read(231))	Recommend(1)	Score(4.96480346506e-06) </table></tr></td>
-<table><tr><td> 30 . [ Talk is Cheap Show me the CODE ] : jQuery Mobile工具栏<br>	http://www.cnblogs.com/Alandre/p/3805001.html<br>	2014-06-23 21:25	Read(172))	Recommend(2)	Score(4.66688420212e-06) </table></tr></td>
-<table><tr><td> 31 . Swift实战-豆瓣电台（三）获取网络数据<br>	http://www.cnblogs.com/sandal1980/p/3803464.html<br>	2014-06-23 09:46	Read(921))	Recommend(2)	Score(4.47738046202e-06) </table></tr></td>
-<table><tr><td> 32 . SVN Application<br>	http://www.cnblogs.com/jenniferhuang/p/3780904.html<br>	2014-06-23 19:02	Read(273))	Recommend(3)	Score(4.44114598763e-06) </table></tr></td>
-<table><tr><td> 33 . 单点登录的实现原理<br>	http://www.cnblogs.com/UliiAn/p/3803042.html<br>	2014-06-22 20:59	Read(1885))	Recommend(21)	Score(4.24323481761e-06) </table></tr></td>
-<table><tr><td> 34 . Servlet 2.4 规范之第六篇：响应<br>	http://www.cnblogs.com/flance/p/3805212.html<br>	2014-06-23 23:49	Read(173))	Recommend(0)	Score(4.21008789788e-06) </table></tr></td>
-<table><tr><td> 35 . Windows Phone 7.5/8.0/8.1 WebBrowser 渲染异常的原因及解决方法<br>	http://www.cnblogs.com/zhxilin/p/3804551.html<br>	2014-06-23 18:21	Read(291))	Recommend(1)	Score(4.19309615154e-06) </table></tr></td>
-<table><tr><td> 36 . javascript中的一些核心知识点以及需要注意的地方<br>	http://www.cnblogs.com/yexiaochai/p/3802681.html<br>	2014-06-22 17:34	Read(2255))	Recommend(29)	Score(4.12044497984e-06) </table></tr></td>
-<table><tr><td> 37 . Swift实战-豆瓣电台（四）歌曲列表的展现<br>	http://www.cnblogs.com/sandal1980/p/3803777.html<br>	2014-06-23 15:56	Read(433))	Recommend(1)	Score(4.04592166074e-06) </table></tr></td>
-<table><tr><td> 38 . Welcome to Swift (苹果官方Swift文档初译与注解十七)---108~115页(第二章)<br>	http://www.cnblogs.com/caios/p/3804898.html<br>	2014-06-23 20:41	Read(219))	Recommend(0)	Score(3.84778403461e-06) </table></tr></td>
-<table><tr><td> 39 . 程序员生存定律--编程的起点与可能的失足<br>	http://www.cnblogs.com/daoshi/p/3803347.html<br>	2014-06-23 06:18	Read(979))	Recommend(3)	Score(3.8115753285e-06) </table></tr></td>
-<table><tr><td> 40 . SQL Server日志文件庞大收缩方法（实测好用）<br>	http://www.cnblogs.com/yryz/p/3803859.html<br>	2014-06-23 13:49	Read(546))	Recommend(2)	Score(3.78248606541e-06) </table></tr></td>
-<table><tr><td> 41 . 10. IDENTITY属性使用小结<br>	http://www.cnblogs.com/seusoftware/p/3804333.html<br>	2014-06-23 16:49	Read(362))	Recommend(1)	Score(3.70493942365e-06) </table></tr></td>
-<table><tr><td> 42 . 基于深度及广度优先搜索的迷宫问题的演示<br>	http://www.cnblogs.com/pengjunwei/p/3804623.html<br>	2014-06-23 19:22	Read(246))	Recommend(1)	Score(3.47458423468e-06) </table></tr></td>
-<table><tr><td> 43 . IE6读取不到样式文件bug<br>	http://www.cnblogs.com/lilaczhu/p/3800193.html<br>	2014-06-23 15:54	Read(275))	Recommend(3)	Score(3.37149480527e-06) </table></tr></td>
-<table><tr><td> 44 . IE6读取不到样式文件bug<br>	http://www.cnblogs.com/lilaczhu/p/3800193.html<br>	2014-06-23 15:54	Read(275))	Recommend(3)	Score(3.37148753972e-06) </table></tr></td>
-<table><tr><td> 45 . 使用堆栈结构进行字符串表达式("7*2-5*3-3+6/3")的计算<br>	http://www.cnblogs.com/myCodingSky/p/3803938.html<br>	2014-06-23 14:20	Read(277))	Recommend(0)	Score(3.36590185712e-06) </table></tr></td>
-<table><tr><td> 46 . 倾蝶数据层（一）<br>	http://www.cnblogs.com/qingdie/p/3803696.html<br>	2014-06-23 11:59	Read(554))	Recommend(0)	Score(3.33128021987e-06) </table></tr></td>
-<table><tr><td> 47 . jQuery基础---Ajax基础<br>	http://www.cnblogs.com/ttcc/p/3802639.html<br>	2014-06-23 07:54	Read(687))	Recommend(3)	Score(3.26754510044e-06) </table></tr></td>
-<table><tr><td> 48 . 个人知识管理系统Version1.0开发记录（07）<br>	http://www.cnblogs.com/fengmang2020/p/3803339.html<br>	2014-06-23 02:52	Read(1036))	Recommend(1)	Score(3.17020338385e-06) </table></tr></td>
-<table><tr><td> 49 . appium简明教程（1）——appium和它的哲学世界<br>	http://www.cnblogs.com/nbkhic/p/3803804.html<br>	2014-06-23 12:56	Read(429))	Recommend(3)	Score(3.11745427557e-06) </table></tr></td>
-<table><tr><td> 50 . Android中判断字符是否为中文、韩文、日文<br>	http://www.cnblogs.com/Lefter/p/3804051.html<br>	2014-06-23 15:08	Read(366))	Recommend(0)	Score(3.1140533642e-06) </table></tr></td>
+<table><tr><td> 26 . 在外包的这几年，技术和管理经验总结<br>	http://www.cnblogs.com/huige-you/p/3802542.html<br>	2014-06-23 18:35	Read(3706))	Recommend(13)	Score(6.65821989192e-06) </table></tr></td>
+<table><tr><td> 27 . 初中级Javascript程序员必修学习目录<br>	http://www.cnblogs.com/A_ming/p/3805769.html<br>	2014-06-24 12:08	Read(875))	Recommend(7)	Score(6.25265106082e-06) </table></tr></td>
+<table><tr><td> 28 . 从天气网提取气象预报数据<br>	http://www.cnblogs.com/eyye/p/3805656.html<br>	2014-06-24 11:25	Read(971))	Recommend(5)	Score(5.91978917258e-06) </table></tr></td>
+<table><tr><td> 29 . 重构实践——为了try-catch大兴排场<br>	http://www.cnblogs.com/pengzhen/p/3806650.html<br>	2014-06-24 18:09	Read(385))	Recommend(2)	Score(5.88455491102e-06) </table></tr></td>
+<table><tr><td> 30 . 一个关于自定义类型作为HashMap的key的问题<br>	http://www.cnblogs.com/aquastone/p/obj-as-hashmap-key.html<br>	2014-06-24 18:19	Read(206))	Recommend(1)	Score(5.77112074974e-06) </table></tr></td>
+<table><tr><td> 31 . 随机数生成算法<br>	http://www.cnblogs.com/houkai/p/3807041.html<br>	2014-06-24 22:24	Read(265))	Recommend(1)	Score(5.74046462373e-06) </table></tr></td>
+<table><tr><td> 32 . iOS开发多线程基础知识 NSOperation<br>	http://www.cnblogs.com/dyf520/p/3807187.html<br>	2014-06-24 23:45	Read(166))	Recommend(0)	Score(5.42892678334e-06) </table></tr></td>
+<table><tr><td> 33 . 程序员在囧途之“客户真的是魔鬼”吗？<br>	http://www.cnblogs.com/shenyisyn/p/3805622.html<br>	2014-06-24 11:08	Read(783))	Recommend(5)	Score(5.28105289837e-06) </table></tr></td>
+<table><tr><td> 34 . 1.1 让CPU占用率曲线听你指挥[cpu manager]<br>	http://www.cnblogs.com/hellogiser/p/cpu-manager.html<br>	2014-06-24 13:23	Read(804))	Recommend(0)	Score(5.16291373506e-06) </table></tr></td>
+<table><tr><td> 35 . iOS开发多线程篇—GCD介绍<br>	http://www.cnblogs.com/wendingding/p/3806821.html<br>	2014-06-24 20:44	Read(144))	Recommend(1)	Score(5.14259455343e-06) </table></tr></td>
+<table><tr><td> 36 . Swift中文手册 -- Enumerations<br>	http://www.cnblogs.com/hbsi/p/3807151.html<br>	2014-06-24 23:18	Read(222))	Recommend(0)	Score(4.91554159523e-06) </table></tr></td>
+<table><tr><td> 37 . 【管理心得之三十】"这事与我无关"<br>	http://www.cnblogs.com/xiaohouchengzhangji/p/3804996.html<br>	2014-06-24 12:26	Read(681))	Recommend(3)	Score(4.88829063719e-06) </table></tr></td>
+<table><tr><td> 38 . 2000条你应知的WPF小姿势 基础篇<45-50 Visual Tree&Logic Tree 附带两个小工具><br>	http://www.cnblogs.com/xfuture/p/3806652.html<br>	2014-06-24 18:09	Read(251))	Recommend(4)	Score(4.66956280772e-06) </table></tr></td>
+<table><tr><td> 39 . 微软移动 Nokia Lumia SensorCore SDK 介绍及上手体验<br>	http://www.cnblogs.com/dearsj001/p/LumiaSensorCoreSDK.html<br>	2014-06-24 09:44	Read(894))	Recommend(7)	Score(4.40251865506e-06) </table></tr></td>
+<table><tr><td> 40 . FineUI小技巧（2）将表单内全部字段禁用、只读、设置无效标识（另附48张专业版高清大图）<br>	http://www.cnblogs.com/sanshi/p/3800851.html<br>	2014-06-23 14:29	Read(2438))	Recommend(33)	Score(3.82446464069e-06) </table></tr></td>
+<table><tr><td> 41 . CDN技术分享<br>	http://www.cnblogs.com/lhj588/p/3805285.html<br>	2014-06-24 10:04	Read(624))	Recommend(6)	Score(3.79664207149e-06) </table></tr></td>
+<table><tr><td> 42 . 从零开始编写自己的C#框架（19）——Web层后端权限模块<br>	http://www.cnblogs.com/EmptyFS/p/3799824.html<br>	2014-06-23 23:04	Read(1392))	Recommend(12)	Score(3.50843025503e-06) </table></tr></td>
+<table><tr><td> 43 . C语言常量与指针<br>	http://www.cnblogs.com/archimedes/p/c-const-point.html<br>	2014-06-24 17:47	Read(187))	Recommend(3)	Score(3.44480181749e-06) </table></tr></td>
+<table><tr><td> 44 . 多一个“点”给IIS与ASP.NET带来的问题<br>	http://www.cnblogs.com/dudu/p/3803819.html<br>	2014-06-23 13:41	Read(2249))	Recommend(12)	Score(3.42371146617e-06) </table></tr></td>
+<table><tr><td> 45 . 机器学习算法的R语言实现（二）：决策树算法<br>	http://www.cnblogs.com/digging4/p/3806840.html<br>	2014-06-24 20:40	Read(179))	Recommend(1)	Score(3.40449714636e-06) </table></tr></td>
+<table><tr><td> 46 . html5与EmguCV前后端实现——人脸识别篇（一）<br>	http://www.cnblogs.com/Arthus/p/3804037.html<br>	2014-06-24 08:32	Read(707))	Recommend(5)	Score(3.37796093893e-06) </table></tr></td>
+<table><tr><td> 47 . 运动目标跟踪算法综述<br>	http://www.cnblogs.com/zjb0823/p/3806333.html<br>	2014-06-24 16:17	Read(345))	Recommend(0)	Score(3.37150607825e-06) </table></tr></td>
+<table><tr><td> 48 . 策略模式和工厂模式的区别<br>	http://www.cnblogs.com/me115/p/3790615.html<br>	2014-06-24 07:42	Read(760))	Recommend(4)	Score(3.3456924208e-06) </table></tr></td>
+<table><tr><td> 49 . Swift实战-豆瓣电台（五）播放音乐<br>	http://www.cnblogs.com/sandal1980/p/3805378.html<br>	2014-06-24 09:11	Read(605))	Recommend(5)	Score(3.33704946849e-06) </table></tr></td>
+<table><tr><td> 50 . Knockout学习之文本和外观绑定器<br>	http://www.cnblogs.com/yaozhenfa/p/knockout_4.html<br>	2014-06-24 14:16	Read(343))	Recommend(1)	Score(3.31334509614e-06) </table></tr></td>
