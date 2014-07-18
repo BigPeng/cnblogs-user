@@ -23,7 +23,7 @@ class Article:
         self.view = view
         self.comment=comment
         self.ft = self.str2timef(time)
-        self.score = 1.0 * (view/10 +10.0*(rec+0.001)/view  )/math.pow((self.ft+0.5),1.1)
+        self.score = 1.0 * (view / 100.0 +100.0*(rec)/(1+view) + 100.0 * (comment) /(1+ view))/math.pow((self.ft+30),2.0)
     def __cmp__(self,other):
         if self.score > other.score:
             return -1
@@ -45,7 +45,7 @@ class Article:
         t =  time.mktime(dt.timetuple()) 
         #return t 
         ct = time.time()
-        return (ct - t) / 60
+        return (ct - t) / 60.0
 
 def getOnePageArticles(page_soup):
     articles = []
@@ -61,7 +61,7 @@ def getOnePageArticles(page_soup):
         post = content.find('div',{'class':'post_item_foot'}).contents[2]
         post_t = post.strip()[4:]
         comment = content.find('span',{'class':'article_comment'}).get_text()
-        com_num =comment[comment.find('(')+1:-1]
+        com_num =int(comment[comment.find('(')+1:-1])
         view = content.find('span',{'class':'article_view'}).get_text()
         view_num =int(view[view.find('(')+1:-1])
         article = Article(title,summary,url,post_t,rec,view_num,com_num)
