@@ -1,55 +1,55 @@
 The Cnblogs Articles
 =
-###Update at  Tue Oct  7 10:00:04 2014
+###Update at  Wed Oct  8 10:00:02 2014
 <table><tr><td>Page 1 </table></tr></td>
-<table><tr><td> 1 . Swift基础常识之变量<br>	http://www.cnblogs.com/Dylan-Alice/p/Swift_Lesson1.html<br>	2014-10-07 09:34	Read(41))	Recommend(1)	Score(0.00164604689912) </table></tr></td>
-<table><tr><td> 2 . Boyer-Moore 字符串匹配算法<br>	http://www.cnblogs.com/gaochundong/p/boyer_moore_string_matching_algorithm.html<br>	2014-10-07 09:15	Read(28))	Recommend(1)	Score(0.000661856346444) </table></tr></td>
-<table><tr><td> 3 . 如何创建并运行java线程<br>	http://www.cnblogs.com/whsa/p/4008987.html<br>	2014-10-07 09:04	Read(29))	Recommend(1)	Score(0.000489292877524) </table></tr></td>
-<table><tr><td> 4 . 跟我一起Django - 03 Django工程师一定要知道的Python<br>	http://www.cnblogs.com/ganiks/p/django-python-knowledge-you-must-know.html<br>	2014-10-07 08:44	Read(72))	Recommend(1)	Score(0.000307602344099) </table></tr></td>
-<table><tr><td> 5 . 操作系统 - 线程<br>	http://www.cnblogs.com/mr-zys/p/4008850.html<br>	2014-10-07 08:28	Read(93))	Recommend(0)	Score(0.00013383992061) </table></tr></td>
-<table><tr><td> 6 . java Zip文件解压缩<br>	http://www.cnblogs.com/mxcy/p/ZipUtils.html<br>	2014-10-07 08:28	Read(65))	Recommend(0)	Score(4.36325698736e-05) </table></tr></td>
-<table><tr><td> 7 . Javascript正则构造函数与正则表达字面量&&常用正则表达式<br>	http://www.cnblogs.com/coco1s/p/4008955.html<br>	2014-10-07 02:53	Read(136))	Recommend(1)	Score(1.34987001247e-05) </table></tr></td>
-<table><tr><td> 8 . 经典中的博弈：第一章 C++的Hello，World！<br>	http://www.cnblogs.com/Alandre/p/4008640.html<br>	2014-10-06 20:13	Read(515))	Recommend(1)	Score(1.0968713246e-05) </table></tr></td>
-<table><tr><td> 9 . UNIX环境编程学习笔记（19）——进程管理之fork 函数的深入学习<br>	http://www.cnblogs.com/lienhua34/p/4008942.html<br>	2014-10-07 01:41	Read(106))	Recommend(1)	Score(7.12609489087e-06) </table></tr></td>
-<table><tr><td> 10 . Centos7系统配置上的变化（三）为网络接口添加多IP<br>	http://www.cnblogs.com/panblack/p/Centos7-WhatsNew-03-multi-ipaddress.html<br>	2014-10-06 22:33	Read(159))	Recommend(1)	Score(6.73906398331e-06) </table></tr></td>
-<table><tr><td> 11 . MVC项目适配器开发实现缓存与压缩的重要机制<br>	http://www.cnblogs.com/weilai1917/p/4008757.html<br>	2014-10-06 21:58	Read(303))	Recommend(1)	Score(6.52049406079e-06) </table></tr></td>
-<table><tr><td> 12 . App.config的学习笔记<br>	http://www.cnblogs.com/07lyt/p/4008418.html<br>	2014-10-06 21:23	Read(248))	Recommend(2)	Score(5.9484956129e-06) </table></tr></td>
-<table><tr><td> 13 . Javascript 俄罗斯方块 游戏代码解释!<br>	http://www.cnblogs.com/editor/p/4007862.html<br>	2014-10-06 18:02	Read(343))	Recommend(4)	Score(5.30004109714e-06) </table></tr></td>
-<table><tr><td> 14 . (原)App源码<br>	http://www.cnblogs.com/bfchuan/p/4008189.html<br>	2014-10-06 17:07	Read(404))	Recommend(0)	Score(4.62115356548e-06) </table></tr></td>
-<table><tr><td> 15 . URL详解<br>	http://www.cnblogs.com/zhuifeng/p/4008058.html<br>	2014-10-06 11:50	Read(649))	Recommend(6)	Score(4.50663307924e-06) </table></tr></td>
-<table><tr><td> 16 . 矩阵的乘法算法<br>	http://www.cnblogs.com/archimedes/p/matrix-multiply.html<br>	2014-10-06 14:08	Read(324))	Recommend(4)	Score(4.43586753319e-06) </table></tr></td>
-<table><tr><td> 17 . 数据结构与算法分析 - 快速排序<br>	http://www.cnblogs.com/mr-zys/p/4008698.html<br>	2014-10-06 21:00	Read(225))	Recommend(1)	Score(4.10321424037e-06) </table></tr></td>
-<table><tr><td> 18 . dota监测<br>	http://www.cnblogs.com/sdu20112013/p/4004886.html<br>	2014-10-05 23:45	Read(1650))	Recommend(4)	Score(3.96250166865e-06) </table></tr></td>
-<table><tr><td> 19 . 软考-程序设计语言基础（编译原理）<br>	http://www.cnblogs.com/jinfulin/p/4008530.html<br>	2014-10-06 18:18	Read(246))	Recommend(0)	Score(3.8888830009e-06) </table></tr></td>
-<table><tr><td> 20 . 前端学习实践笔记--JavaScript深入【2】<br>	http://www.cnblogs.com/tonylp/p/4008842.html<br>	2014-10-07 00:27	Read(141))	Recommend(0)	Score(3.87709891452e-06) </table></tr></td>
-<table><tr><td> 21 . Android学习笔记-Intent(一)<br>	http://www.cnblogs.com/Johnnie/p/4008915.html<br>	2014-10-07 01:10	Read(106))	Recommend(0)	Score(3.37945196552e-06) </table></tr></td>
-<table><tr><td> 22 . Android学习笔记——保存文件（Saving Files）<br>	http://www.cnblogs.com/JohnTsai/p/4008854.html<br>	2014-10-06 23:33	Read(140))	Recommend(0)	Score(3.2428438703e-06) </table></tr></td>
-<table><tr><td> 23 . ios  关于MD5 加密的32位与16位<br>	http://www.cnblogs.com/changpengkaiIOS/p/4008564.html<br>	2014-10-06 18:48	Read(225))	Recommend(0)	Score(3.03389453317e-06) </table></tr></td>
-<table><tr><td> 24 . 前端学习实践笔记--JavaScript深入【1】<br>	http://www.cnblogs.com/tonylp/p/4007807.html<br>	2014-10-06 13:42	Read(384))	Recommend(1)	Score(2.96551874016e-06) </table></tr></td>
-<table><tr><td> 25 . Management Studio 插件生成安装包要点（以ProjkyAddin为例）<br>	http://www.cnblogs.com/ProJKY/p/ssmsaddinsetup.html<br>	2014-10-06 17:50	Read(188))	Recommend(0)	Score(2.93787398107e-06) </table></tr></td>
+<table><tr><td> 1 . 使用SSIS进行数据清洗<br>	http://www.cnblogs.com/CareySon/p/4010424.html<br>	2014-10-08 09:09	Read(147))	Recommend(3)	Score(0.000532667227436) </table></tr></td>
+<table><tr><td> 2 . 桑拿休闲洗浴软件解决洗浴管理中心客户关系管理难题<br>	http://www.cnblogs.com/xinghuoruanjian/p/4010502.html<br>	2014-10-08 09:52	Read(57))	Recommend(0)	Score(0.000394210141927) </table></tr></td>
+<table><tr><td> 3 . Sizzle选择器引擎介绍<br>	http://www.cnblogs.com/bigbrother1984/p/4010492.html<br>	2014-10-08 09:45	Read(50))	Recommend(0)	Score(0.000246635110036) </table></tr></td>
+<table><tr><td> 4 . Linux基本命令之date命令<br>	http://www.cnblogs.com/fengfengtk/p/4010433.html<br>	2014-10-08 09:15	Read(128))	Recommend(0)	Score(0.000227401266438) </table></tr></td>
+<table><tr><td> 5 . Win7下SQLite的简单使用<br>	http://www.cnblogs.com/aehyok/p/3981965.html<br>	2014-10-08 07:16	Read(718))	Recommend(3)	Score(0.000223975023894) </table></tr></td>
+<table><tr><td> 6 . 程序猿崛起2——互联网时代下的新潮流和新活法<br>	http://www.cnblogs.com/levenyes/p/4010351.html<br>	2014-10-08 07:04	Read(630))	Recommend(4)	Score(0.000178290926746) </table></tr></td>
+<table><tr><td> 7 . “跳跃表”简析<br>	http://www.cnblogs.com/yydcdut/p/4008867.html<br>	2014-10-08 09:34	Read(50))	Recommend(0)	Score(0.000159294135471) </table></tr></td>
+<table><tr><td> 8 . javaweb学习总结(二十三)——jsp自定义标签开发入门<br>	http://www.cnblogs.com/xdp-gacl/p/3916734.html<br>	2014-10-08 07:13	Read(194))	Recommend(0)	Score(7.63965402905e-05) </table></tr></td>
+<table><tr><td> 9 . 你好，C++（13）这道单选题的答案是A、B、C还是D？3.7  枚举类型<br>	http://www.cnblogs.com/nihaoCPP/p/enum.html<br>	2014-10-08 09:58	Read(2))	Recommend(0)	Score(1.95003352707e-05) </table></tr></td>
+<table><tr><td> 10 . 优酷真实视频地址解析<br>	http://www.cnblogs.com/zhaojunjie/p/4009192.html<br>	2014-10-07 12:23	Read(2997))	Recommend(37)	Score(1.84203779845e-05) </table></tr></td>
+<table><tr><td> 11 . 用JQ仿造礼德财富网的图片查看器<br>	http://www.cnblogs.com/vajoy/p/4009865.html<br>	2014-10-07 22:08	Read(545))	Recommend(2)	Score(1.2226706897e-05) </table></tr></td>
+<table><tr><td> 12 . .net 实现Office文件预览（.NET、SQL技术交流群206656202，入群需注明来自博客园）<br>	http://www.cnblogs.com/GodIsBoy/p/4009252.html<br>	2014-10-07 13:35	Read(1490))	Recommend(10)	Score(1.05242826182e-05) </table></tr></td>
+<table><tr><td> 13 . Combining multiple expressions 合并多个System.Linq.Expressions.Expression<br>	http://www.cnblogs.com/ChobitsSP/p/4010531.html<br>	2014-10-08 09:59	Read(1))	Recommend(0)	Score(1.03888550346e-05) </table></tr></td>
+<table><tr><td> 14 . leaflet开源地图库源码阅读笔记（二）——整体框架(by vczero)<br>	http://www.cnblogs.com/vczero/p/leaflet_2.html<br>	2014-10-07 23:08	Read(422))	Recommend(1)	Score(1.00886239084e-05) </table></tr></td>
+<table><tr><td> 15 . 冒泡排序算法<br>	http://www.cnblogs.com/archimedes/p/bubble-sort-algorithm.html<br>	2014-10-07 23:53	Read(291))	Recommend(2)	Score(8.85884129127e-06) </table></tr></td>
+<table><tr><td> 16 . （原创）大数据时代：基于微软案例数据库数据挖掘知识点总结（Microsoft 聚类分析算法）<br>	http://www.cnblogs.com/zhijianliutang/p/4009829.html<br>	2014-10-07 21:11	Read(409))	Recommend(3)	Score(7.55227870132e-06) </table></tr></td>
+<table><tr><td> 17 . PHP面向对象<br>	http://www.cnblogs.com/goAhead-hust/p/4010031.html<br>	2014-10-07 23:16	Read(248))	Recommend(1)	Score(6.34281321612e-06) </table></tr></td>
+<table><tr><td> 18 . 软考-操作系统<br>	http://www.cnblogs.com/jinfulin/p/4009822.html<br>	2014-10-07 21:08	Read(348))	Recommend(0)	Score(6.300945706e-06) </table></tr></td>
+<table><tr><td> 19 . 前端技术Bootstrap的hello world<br>	http://www.cnblogs.com/fnng/p/4009256.html<br>	2014-10-07 13:37	Read(942))	Recommend(2)	Score(6.26986910542e-06) </table></tr></td>
+<table><tr><td> 20 . hibernate知识点理解<br>	http://www.cnblogs.com/zhao123/p/4009999.html<br>	2014-10-07 23:07	Read(234))	Recommend(0)	Score(5.92795226802e-06) </table></tr></td>
+<table><tr><td> 21 . 【WP开发】实现“摇一摇”功能<br>	http://www.cnblogs.com/tcjiaan/p/4009105.html<br>	2014-10-07 11:13	Read(1002))	Recommend(7)	Score(5.84919501927e-06) </table></tr></td>
+<table><tr><td> 22 . Axiom3D写游戏:第一个窗口<br>	http://www.cnblogs.com/zhouxin/p/4009517.html<br>	2014-10-07 21:37	Read(248))	Recommend(0)	Score(5.49426766083e-06) </table></tr></td>
+<table><tr><td> 23 . 当fastJson邂逅大写字段时<br>	http://www.cnblogs.com/magics/p/4009532.html<br>	2014-10-07 17:09	Read(473))	Recommend(2)	Score(5.33787301858e-06) </table></tr></td>
+<table><tr><td> 24 . JS魔法堂：通过marquee标签实现信息滚动效果<br>	http://www.cnblogs.com/fsjohnhuang/p/4009914.html<br>	2014-10-07 22:11	Read(249))	Recommend(0)	Score(5.29149958823e-06) </table></tr></td>
+<table><tr><td> 25 . GitHub初体验（小菜新手github用起来）<br>	http://www.cnblogs.com/skylar/p/4009196.html<br>	2014-10-07 12:32	Read(790))	Recommend(3)	Score(5.20252222506e-06) </table></tr></td>
 <table><tr><td>Page 2 </table></tr></td>
-<table><tr><td> 26 . spring-注解<br>	http://www.cnblogs.com/gyouxu/p/4008411.html<br>	2014-10-06 16:47	Read(219))	Recommend(0)	Score(2.74234601242e-06) </table></tr></td>
-<table><tr><td> 27 . [leetcode]Best Time to Buy and Sell Stock III @ Python<br>	http://www.cnblogs.com/asrman/p/4008828.html<br>	2014-10-06 22:55	Read(126))	Recommend(0)	Score(2.60815590407e-06) </table></tr></td>
-<table><tr><td> 28 . 上周热点回顾（9.29-10.5）<br>	http://www.cnblogs.com/cmt/p/4007907.html<br>	2014-10-06 08:33	Read(557))	Recommend(0)	Score(2.29745359209e-06) </table></tr></td>
-<table><tr><td> 29 . 编程语言的发展脉络图<br>	http://www.cnblogs.com/rufi/p/language_graph.html<br>	2014-10-05 19:52	Read(1096))	Recommend(2)	Score(2.1584334314e-06) </table></tr></td>
-<table><tr><td> 30 . 我的IOS学习之路（三）：手势识别器<br>	http://www.cnblogs.com/pretty-guy/p/4008475.html<br>	2014-10-06 17:33	Read(215))	Recommend(0)	Score(2.07849506118e-06) </table></tr></td>
-<table><tr><td> 31 . 线性回归之问题建模<br>	http://www.cnblogs.com/90zeng/p/4008653.html<br>	2014-10-06 20:31	Read(137))	Recommend(0)	Score(1.9459904767e-06) </table></tr></td>
-<table><tr><td> 32 . 设计模式之代理模式（Proxy Pattern）_补充篇<br>	http://www.cnblogs.com/ayqy/p/4008520.html<br>	2014-10-06 18:26	Read(174))	Recommend(0)	Score(1.87217499217e-06) </table></tr></td>
-<table><tr><td> 33 . ORACLE回收站机制介绍<br>	http://www.cnblogs.com/kerrycode/p/4008362.html<br>	2014-10-06 16:09	Read(158))	Recommend(1)	Score(1.82206336634e-06) </table></tr></td>
-<table><tr><td> 34 . 【原创】程序猿崛起<br>	http://www.cnblogs.com/levenyes/p/4005692.html<br>	2014-10-04 10:13	Read(3183))	Recommend(26)	Score(1.77566092162e-06) </table></tr></td>
-<table><tr><td> 35 . Android -- ImageLoader简析<br>	http://www.cnblogs.com/yydcdut/p/4008097.html<br>	2014-10-06 12:19	Read(266))	Recommend(1)	Score(1.7127702845e-06) </table></tr></td>
-<table><tr><td> 36 . 满月了---疲惫过后的欣喜<br>	http://www.cnblogs.com/dream550/p/4002327.html<br>	2014-10-05 18:07	Read(770))	Recommend(1)	Score(1.4440318787e-06) </table></tr></td>
-<table><tr><td> 37 . Step by step Dynamics CRM 2013安装<br>	http://www.cnblogs.com/jfzhu/p/4008391.html<br>	2014-10-06 16:32	Read(164))	Recommend(0)	Score(1.41111174573e-06) </table></tr></td>
-<table><tr><td> 38 . 前端JS开发框架-DHTMLX--dhtmlXTree<br>	http://www.cnblogs.com/DemoLee/p/4007842.html<br>	2014-10-06 00:09	Read(487))	Recommend(0)	Score(1.24291187786e-06) </table></tr></td>
-<table><tr><td> 39 . IEEE 802.3 Ethernet<br>	http://www.cnblogs.com/jianxinzhou/p/4007941.html<br>	2014-10-06 09:40	Read(232))	Recommend(1)	Score(1.23822268563e-06) </table></tr></td>
-<table><tr><td> 40 . 为 Windows Phone 8.1 app 解决“The type does not support direct content.”的问题<br>	http://www.cnblogs.com/bombless/p/fix-type-does-not-support-direct-content.html<br>	2014-10-06 14:49	Read(167))	Recommend(0)	Score(1.19722458262e-06) </table></tr></td>
-<table><tr><td> 41 . 利用委托实现自己的数据缓存仓库（附上Demo）<br>	http://www.cnblogs.com/SmallZL/p/4007128.html<br>	2014-10-05 16:38	Read(594))	Recommend(3)	Score(1.12773106322e-06) </table></tr></td>
-<table><tr><td> 42 . 写在读研初期<br>	http://www.cnblogs.com/shuyingsoaring/p/4006414.html<br>	2014-10-04 21:33	Read(1213))	Recommend(7)	Score(1.12254676465e-06) </table></tr></td>
-<table><tr><td> 43 . 装配线调度问题的算法解析和验证<br>	http://www.cnblogs.com/lienhua34/p/4008344.html<br>	2014-10-06 15:56	Read(132))	Recommend(0)	Score(1.06355522699e-06) </table></tr></td>
-<table><tr><td> 44 . 软考-计算机组成原理、体系机构与网络安全<br>	http://www.cnblogs.com/jinfulin/p/4007328.html<br>	2014-10-05 19:27	Read(501))	Recommend(0)	Score(1.05772310751e-06) </table></tr></td>
-<table><tr><td> 45 . [心得]谈谈程序员选择书籍方面的一些感想<br>	http://www.cnblogs.com/yansong-xu/p/4006679.html<br>	2014-10-05 08:51	Read(867))	Recommend(0)	Score(1.02884997561e-06) </table></tr></td>
-<table><tr><td> 46 . 操作系统 - 进程<br>	http://www.cnblogs.com/mr-zys/p/4007471.html<br>	2014-10-05 22:00	Read(423))	Recommend(0)	Score(8.8192045958e-07) </table></tr></td>
-<table><tr><td> 47 . 字符串匹配算法<br>	http://www.cnblogs.com/gaochundong/p/string_matching.html<br>	2014-10-04 21:50	Read(954))	Recommend(12)	Score(8.78053938893e-07) </table></tr></td>
-<table><tr><td> 48 . Josephus问题<br>	http://www.cnblogs.com/nizaikangududefengjing/p/4007914.html<br>	2014-10-06 09:06	Read(201))	Recommend(0)	Score(8.65354861198e-07) </table></tr></td>
-<table><tr><td> 49 . SQL的几种连接：内连接、左联接、右连接、全连接、交叉连接<br>	http://www.cnblogs.com/zxlovenet/p/4005256.html<br>	2014-10-03 19:46	Read(2271))	Recommend(6)	Score(8.64559827268e-07) </table></tr></td>
-<table><tr><td> 50 . libgdx IDEA 发布ipa到AppStore<br>	http://www.cnblogs.com/hanhongmin/p/4007878.html<br>	2014-10-06 01:09	Read(304))	Recommend(0)	Score(7.59198082542e-07) </table></tr></td>
+<table><tr><td> 26 . Hadoop日记Day17---计数器、map规约、分区学习<br>	http://www.cnblogs.com/sunddenly/p/4009568.html<br>	2014-10-07 20:11	Read(282))	Recommend(1)	Score(4.77921548422e-06) </table></tr></td>
+<table><tr><td> 27 . javaweb学习总结(二十二)——基于Servlet+JSP+JavaBean开发模式的用户登录注册<br>	http://www.cnblogs.com/xdp-gacl/p/3902537.html<br>	2014-10-07 22:33	Read(181))	Recommend(1)	Score(4.58924789455e-06) </table></tr></td>
+<table><tr><td> 28 . 生成式学习算法<br>	http://www.cnblogs.com/90zeng/p/generative_learning_algorithms.html<br>	2014-10-07 21:48	Read(215))	Recommend(0)	Score(4.49979429729e-06) </table></tr></td>
+<table><tr><td> 29 . [leetcode]Distinct Subsequences @ Python<br>	http://www.cnblogs.com/asrman/p/4009924.html<br>	2014-10-07 22:20	Read(150))	Recommend(1)	Score(4.05723342428e-06) </table></tr></td>
+<table><tr><td> 30 . Python框架之Django学习笔记（十二）<br>	http://www.cnblogs.com/voidy/p/4009674.html<br>	2014-10-07 19:01	Read(312))	Recommend(0)	Score(3.61491347365e-06) </table></tr></td>
+<table><tr><td> 31 . 如何在使用itext生成pdf文档时给文档添加背景图片<br>	http://www.cnblogs.com/flyfeifei66/p/4009653.html<br>	2014-10-07 18:41	Read(285))	Recommend(0)	Score(3.16437312638e-06) </table></tr></td>
+<table><tr><td> 32 . Unit Of Work--工作单元(二)<br>	http://www.cnblogs.com/ahl5esoft/p/4009348.html<br>	2014-10-07 14:58	Read(359))	Recommend(0)	Score(2.8156985407e-06) </table></tr></td>
+<table><tr><td> 33 . CouchDB简介<br>	http://www.cnblogs.com/MikeZhang/p/couchdbBriefIntroduction20141007.html<br>	2014-10-07 15:45	Read(344))	Recommend(0)	Score(2.71789383186e-06) </table></tr></td>
+<table><tr><td> 34 . Optimistic Concurrency VS. Pessimistic Concurrency Control<br>	http://www.cnblogs.com/jfzhu/p/4009918.html<br>	2014-10-07 22:13	Read(146))	Recommend(0)	Score(2.68774227894e-06) </table></tr></td>
+<table><tr><td> 35 . 操作系统 - 线程<br>	http://www.cnblogs.com/mr-zys/p/4008850.html<br>	2014-10-07 08:28	Read(515))	Recommend(0)	Score(2.58727889832e-06) </table></tr></td>
+<table><tr><td> 36 . PHP获得文件的md5并检验是否被修改<br>	http://www.cnblogs.com/joyceX/p/4009247.html<br>	2014-10-07 13:31	Read(244))	Recommend(1)	Score(2.31176271431e-06) </table></tr></td>
+<table><tr><td> 37 . 一种把过滤器（Filter)附加到请求的处理管道中的方法<br>	http://www.cnblogs.com/JFCao/p/4009249.html<br>	2014-10-07 13:33	Read(340))	Recommend(0)	Score(2.15173876849e-06) </table></tr></td>
+<table><tr><td> 38 . 跟我一起Django - 03 Django工程师一定要知道的Python<br>	http://www.cnblogs.com/ganiks/p/django-python-knowledge-you-must-know.html<br>	2014-10-07 08:44	Read(318))	Recommend(5)	Score(2.11734012197e-06) </table></tr></td>
+<table><tr><td> 39 . Dijkstra(迪杰斯特拉)算法求解最短路径<br>	http://www.cnblogs.com/yydcdut/p/4008180.html<br>	2014-10-07 12:07	Read(305))	Recommend(0)	Score(2.05330199437e-06) </table></tr></td>
+<table><tr><td> 40 . Swift基础常识之变量<br>	http://www.cnblogs.com/Dylan-Alice/p/Swift_Lesson1.html<br>	2014-10-07 09:34	Read(377))	Recommend(2)	Score(2.03907153243e-06) </table></tr></td>
+<table><tr><td> 41 . BZOJ1501 (NOI2005 智慧珠游戏）<br>	http://www.cnblogs.com/kingnight/p/4009695.html<br>	2014-10-07 19:19	Read(168))	Recommend(0)	Score(2.02416909338e-06) </table></tr></td>
+<table><tr><td> 42 . Javascript 俄罗斯方块 游戏代码解释!<br>	http://www.cnblogs.com/editor/p/4007862.html<br>	2014-10-06 18:02	Read(980))	Recommend(8)	Score(1.88711658919e-06) </table></tr></td>
+<table><tr><td> 43 . 前端学习实践笔记--JavaScript深入【3】<br>	http://www.cnblogs.com/tonylp/p/4009140.html<br>	2014-10-07 11:38	Read(338))	Recommend(0)	Score(1.7955200083e-06) </table></tr></td>
+<table><tr><td> 44 . LeetCode——Rotate Image（二维数组顺时针旋转90度）<br>	http://www.cnblogs.com/chrischennx/p/4009376.html<br>	2014-10-07 15:18	Read(179))	Recommend(1)	Score(1.76734084203e-06) </table></tr></td>
+<table><tr><td> 45 . dota监测<br>	http://www.cnblogs.com/sdu20112013/p/4004886.html<br>	2014-10-05 23:45	Read(1895))	Recommend(5)	Score(1.58022600113e-06) </table></tr></td>
+<table><tr><td> 46 . UNIX环境编程学习笔记（20）——进程管理之exec 函数族<br>	http://www.cnblogs.com/lienhua34/p/4009368.html<br>	2014-10-07 15:11	Read(212))	Recommend(0)	Score(1.57815132654e-06) </table></tr></td>
+<table><tr><td> 47 . MVC项目适配器开发实现缓存与压缩的重要机制<br>	http://www.cnblogs.com/weilai1917/p/4008757.html<br>	2014-10-06 21:58	Read(674))	Recommend(2)	Score(1.5568685432e-06) </table></tr></td>
+<table><tr><td> 48 . Boyer-Moore 字符串匹配算法<br>	http://www.cnblogs.com/gaochundong/p/boyer_moore_string_matching_algorithm.html<br>	2014-10-07 09:15	Read(211))	Recommend(2)	Score(1.53577968887e-06) </table></tr></td>
+<table><tr><td> 49 . URL详解<br>	http://www.cnblogs.com/zhuifeng/p/4008058.html<br>	2014-10-06 11:50	Read(1042))	Recommend(7)	Score(1.46357122911e-06) </table></tr></td>
+<table><tr><td> 50 . OpenCASCADE Conic to BSpline Curves-Hyperbola<br>	http://www.cnblogs.com/opencascade/p/4009413.html<br>	2014-10-07 15:39	Read(165))	Recommend(0)	Score(1.289846172e-06) </table></tr></td>
